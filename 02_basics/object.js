@@ -15,7 +15,7 @@
 console.log(jsuser.email);
 //console.log(jsuser["email"]);// right way
 console.log(jsuser["full name"]);
-console.log(jsuser[mysym]);
+console.log(typeof jsuser[mysym]);
 // bsics
 // change mail 
 jsuser.email="harharmahadev@gmail.com"
