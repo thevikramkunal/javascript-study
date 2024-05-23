@@ -8,5 +8,9 @@ console.log(addTwo(54,6));
 
 
 
-const mummy=(num1, num2) => (num1*num2)
+// const mummy=(num1, num2) => (num1*num2)
+// object bhi return kara sakte hai like  :---
+
+const mummy=(num1, num2) => ({username:"kumal"})
+
 console.log(mummy(7,4));
